@@ -1,0 +1,26 @@
+.collection {
+    margin-top: 20px !important;
+}
+
+p {
+    font-size: large;
+}
+
+.search {
+    margin-left: -10px !important;
+}
+
+.search_button, .undo_button {
+    margin-top: -20px;
+}
+
+label {
+    font-size: medium !important;
+    font-weight: bold;
+    color: black;
+}
+
+li {
+   list-style-type: circle !important;
+   margin-left: 20px;
+}
